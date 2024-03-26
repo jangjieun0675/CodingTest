@@ -114,7 +114,9 @@ print()
 print(abs(-7))
 x,y=divmod(100,8)
 print(x,y)
-print(pow(5,3),5**3)
+print(pow(5,3))
+print(5**3)
+print()
 
 # 외부 모듈
 import math
@@ -122,5 +124,7 @@ import math
 print(math.pi)
 print(math.ceil(5.1)) # x이상의 수 중에서 가장 작은 정수
 print(math.floor(4.8)) #x이하의 수 중에서 가장 큰 정수
+print()
+
 
 
